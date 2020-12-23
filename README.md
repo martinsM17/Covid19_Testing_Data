@@ -7,3 +7,5 @@ The goals in this work are:
   - produce a statiscal analysis of the resulting data;
   - construct machine learning models and apply them on the testing data;
   - apply deep learning techniques to the data and compare with the machine learning models.
+
+Note: The use of an updated version of the dataset can produce some issues with this pipeline, since it might occur an introduction of new variables like vaccination and so forth. 
